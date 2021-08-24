@@ -1,4 +1,4 @@
-# token-mix
+# Harvest isolation test
 
 Command to run: 
 
