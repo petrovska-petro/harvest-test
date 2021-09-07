@@ -3,6 +3,7 @@ name: 'Dev-multisig template'
 about: 'request a new script to be run by the dev_multi'
 title: '[Dev-multisig]:'
 labels: dev-multisig
+projects: test-1
 assignees: ''
 ---
 
