@@ -2,7 +2,7 @@
 name: 'Operations template'
 about: 'payment details for bounty, part-time, recurring grantee'
 title: '[Operations]'
-label: 'Operations'
+label: Operations
 assignees: ''
 ---
 
@@ -12,4 +12,4 @@ Amount:
 
 Recipient:
 
-Work done:
+Reason:
